@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jvmachadorj/jvmachadro/main/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/jvmachadorj/jvmachadorj/main/wave.gif" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jo%C3%A3o%20Machado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-machado2/?locale=en_US)](https://www.linkedin.com/in/joao-victor-machado2/?locale=en_US)
 [![Gmail Badge](https://img.shields.io/badge/-jvmachadorj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jvmachadorj@gmail.com)](mailto:jvmachadorj@gmail.com)
